@@ -1,6 +1,6 @@
 # 👋 Hi, ich bin Pandinja aka Kay!
 
-- 🔥 **22 Jahre alt**, wohnhaft in der Nähe von Bielefeld, Deutschland
+- 🔥 **23 Jahre alt**, wohnhaft in der Nähe von Bielefeld, Deutschland
 - 💼 Aktuell in einer **Vollausbildung zum Verkäufer**
 - 💻 **Gründer und Leitung von [KEKHUB](https://kekhub.tebex.io/)**, einem Online-Shop für digitale Produkte und FiveM-Skripte
 - 🌍 **Freelancer** im Bereich der Entwicklung von **FiveM-Scripts** für Roleplay- und Military-Server

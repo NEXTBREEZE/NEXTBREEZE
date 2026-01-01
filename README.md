@@ -43,6 +43,12 @@ Gründer & leitender Entwickler von **KEKHUB** – einem Marktplatz für FiveM-S
 🔗 Store: https://kekhub.tebex.io  
 📘 Dokumentation: https://kekfaction.gitbook.io/kekhub  
 
+### 🔹 NEXTGEN
+**NEXTGEN** ist mein eigener **FiveM Roleplay Server**, bei dem ich für **Konzept, Entwicklung und technische Leitung** verantwortlich bin.  
+Der Fokus liegt auf **modernem RP**, stabiler Performance und individuell entwickelten Systemen.
+
+🌐 Website: https://nextgen-rp.de  
+
 ---
 
 ## 🤝 Zusammenarbeit

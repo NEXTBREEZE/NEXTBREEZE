@@ -48,6 +48,7 @@ Gründer & leitender Entwickler von **KEKHUB** – einem Marktplatz für FiveM-S
 Der Fokus liegt auf **modernem RP**, stabiler Performance und individuell entwickelten Systemen.
 
 🌐 Website: https://nextgen-rp.de  
+💬 Discord: http://dc.nextgen-rp.de
 
 ---
 

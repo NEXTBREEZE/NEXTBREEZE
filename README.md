@@ -1,11 +1,11 @@
-# 👋 Hi, ich bin Pandinja
+# 👋 Hi, ich bin NEXT BREEZE
 
-## 🚀 FiveM Script Entwickler | Gründer von KEKHUB
+## 🚀 FiveM Script Entwickler | Gründer von NEXT-DEVELOPMENT (vorher: KEKHUB)
 
-Ich bin **23 Jahre alt**, komme aus der Nähe von **Hannover (Deutschland)** und entwickle **hochwertige, performante FiveM-Skripte** für **Roleplay- und Military-Server**.  
-Neben meiner Freelance-Tätigkeit leite ich **KEKHUB**, einen Online-Shop für professionelle FiveM-Ressourcen und digitale Produkte.
+Ich bin **24 Jahre alt**, komme aus der Nähe von **Hannover (Deutschland)** und entwickle **hochwertige, performante FiveM-Skripte** für **Roleplay- und Military-Server**.  
+Neben meiner Freelance-Tätigkeit leite ich **NEXT-DEVELOPMENT** (vorher: KEKHUB), einen Online-Shop für professionelle FiveM-Ressourcen und digitale Produkte.
 
-Aktuell absolviere ich eine **Vollausbildung zum Verkäufer**, wodurch ich technisches Know-how mit Kundenverständnis und professioneller Kommunikation verbinde.
+Aktuell absolviere ich eine **Vollausbildung zur Fachkraft für Lagerlogistik**, wodurch ich technisches Know-how mit Kundenverständnis und professioneller Kommunikation verbinde.
 
 ---
 
@@ -37,11 +37,11 @@ Aktuell absolviere ich eine **Vollausbildung zum Verkäufer**, wodurch ich techn
 
 ## 🏗️ Projekte
 
-### 🔹 KEKHUB
-Gründer & leitender Entwickler von **KEKHUB** – einem Marktplatz für FiveM-Skripte und Server-Ressourcen.
+### 🔹 NEXT-DEVELOPMENT
+Gründer & leitender Entwickler von **NEXT-DEVELOPMENT** – einem Marktplatz für FiveM-Skripte und Server-Ressourcen.
 
-🔗 Store: https://kekhub.tebex.io  
-📘 Dokumentation: https://kekfaction.gitbook.io/kekhub  
+🔗 Store: https://nextdevelopment.tebex.io/
+📘 Dokumentation: https://nextdevelopment.gitbook.io/nextdevelopment
 
 ### 🔹 NEXTGEN
 **NEXTGEN** ist mein eigener **FiveM Roleplay Server**, bei dem ich für **Konzept, Entwicklung und technische Leitung** verantwortlich bin.  
